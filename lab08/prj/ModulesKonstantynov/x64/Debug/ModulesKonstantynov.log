@@ -1,0 +1,3 @@
+﻿  main.cpp
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\ModulesKonstantynov\main.cpp(5,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  ModulesKonstantynov.vcxproj -> A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\x64\Debug\ModulesKonstantynov.lib
