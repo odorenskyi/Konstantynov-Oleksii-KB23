@@ -1,0 +1,7 @@
+﻿  Konstantynov_task.cpp
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab09\prj\Konstantynov_task\Konstantynov_task.cpp(16,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab09\prj\Konstantynov_task\Konstantynov_task.cpp(28,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab09\prj\Konstantynov_task\Konstantynov_task.cpp(28,78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab09\prj\Konstantynov_task\Konstantynov_task.cpp(28,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab09\prj\Konstantynov_task\Konstantynov_task.cpp(28,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Konstantynov_task.vcxproj -> A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab09\prj\x64\Debug\Konstantynov_task.exe
