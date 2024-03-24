@@ -1,3 +1,5 @@
 ﻿  main.cpp
-A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\ModulesKonstantynov\main.cpp(5,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\ModulesKonstantynov\main.cpp(6,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\ModulesKonstantynov\main.cpp(58,19): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\ModulesKonstantynov\main.cpp(62): warning C4715: primalNum: значение возвращается не при всех путях выполнения
   ModulesKonstantynov.vcxproj -> A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\x64\Debug\ModulesKonstantynov.lib
