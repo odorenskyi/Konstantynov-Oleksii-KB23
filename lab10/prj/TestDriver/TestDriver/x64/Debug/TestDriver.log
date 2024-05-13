@@ -1,0 +1,4 @@
+﻿  TestDriver.cpp
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab10\prj\TestDriver\TestDriver\TestDriver.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\ModulesKonstantynov\ModulesKonstantynov.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  TestDriver.vcxproj -> A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab10\prj\TestDriver\x64\Debug\TestDriver.exe
