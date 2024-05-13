@@ -1,5 +1,8 @@
 ﻿  main.cpp
-A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\ModulesKonstantynov\main.cpp(6,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\ModulesKonstantynov\main.cpp(58,19): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
-A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\ModulesKonstantynov\main.cpp(62): warning C4715: primalNum: значение возвращается не при всех путях выполнения
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\ModulesKonstantynov\main.cpp(15,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\ModulesKonstantynov\main.cpp(67,19): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\ModulesKonstantynov\main.cpp(142,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\ModulesKonstantynov\main.cpp(142,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\ModulesKonstantynov\main.cpp(142,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\ModulesKonstantynov\main.cpp(71): warning C4715: 'primalNum': not all control paths return a value
   ModulesKonstantynov.vcxproj -> A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\x64\Debug\ModulesKonstantynov.lib

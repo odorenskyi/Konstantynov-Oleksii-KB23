@@ -1,5 +1,6 @@
 ﻿  Konstantynov_task.cpp
-A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\Konstantynov_task\Konstantynov_task.cpp(28,226): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\Konstantynov_task\Konstantynov_task.cpp(28,223): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\Konstantynov_task\Konstantynov_task.cpp(28,220): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-  Konstantynov_task.vcxproj -> A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\x64\Debug\Konstantynov_task.exe
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\ModulesKonstantynov\ModulesKonstantynov.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\Konstantynov_task\Konstantynov_task.cpp(28,226): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\Konstantynov_task\Konstantynov_task.cpp(28,223): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\Konstantynov_task\Konstantynov_task.cpp(28,220): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'A:\Універ\БМТП\Konstantynov-Oleksii-KB23\lab08\prj\x64\Debug\ModulesKonstantynov.lib'
